@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg>
+  <font id="wizardFont" horiz-adv-x="400">
+    <font-face font-family="wizard" font-weight="bold"
+        units-per-em="400">
+      <font-face-src>
+        <font-face-name name="TraverseDa's hacked cscript font"/>
+      </font-face-src>
+    </font-face>
+    <missing-glyph><path d="M0,0h200v200h-200z"/></missing-glyph>
+    <glyph 
+       id="{{id()}}"
+       horiz-adv-x="1000"
+       glyph-name="space"
+       unicode=" " />
+    {% for char, path in paths.items() -%}
+    <glyph
+       id="{{id()}}"
+       glyph-name="{{char|upper}}"
+       unicode="{{char|upper}}"
+       d="{{path}}" />
+    <glyph
+       id="{{id()}}"
+       glyph-name="{{char|lower}}"
+       unicode="{{char|lower}}"
+       d="{{path}}" />
+    {% endfor %}
+    {% for key, values in hkern.items() %}
+    {% for char in values['chars'] -%}
+    <hkern
+       u1="{{key|lower}}"
+       u2="{{char|upper}}"
+       k="{{values['kern']}}"
+       id="{{id()}}" />
+    <hkern
+       u1="{{key|lower}}"
+       u2="{{char|lower}}"
+       k="{{values['kern']}}"
+       id="{{id()}}" />
+    <hkern
+       u1="{{key|upper}}"
+       u2="{{char|upper}}"
+       k="{{values['kern']}}"
+       id="{{id()}}" />
+    <hkern
+       u1="{{key|upper}}"
+       u2="{{char|lower}}"
+       k="{{values['kern']}}"
+       id="{{id()}}" />
+    {%- endfor %}
+    {% endfor %}
+
+  </font>
+</svg>

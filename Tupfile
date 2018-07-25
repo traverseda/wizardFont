@@ -1,0 +1,2 @@
+: fontGenerator.svg.j2 | font.yaml |> python compile.py |> wizardFont.svg
+: wizardFont.svg |> cloudconvert -f woff wizardFont.svg |> wizardFont.woff

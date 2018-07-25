@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg>
+  <font id="wizardFont" horiz-adv-x="400">
+    <font-face font-family="wizard" font-weight="bold"
+        units-per-em="400">
+      <font-face-src>
+        <font-face-name name="TraverseDa's hacked cscript font"/>
+      </font-face-src>
+    </font-face>
+    <missing-glyph><path d="M0,0h200v200h-200z"/></missing-glyph>
+    <glyph 
+       id="0"
+       horiz-adv-x="1000"
+       glyph-name="space"
+       unicode=" " />
+    <glyph
+       id="1"
+       glyph-name="A"
+       unicode="A"
+       d="M 300,224 A 100,100 0 0 0 200,124 100,100 0 0 0 100,224 100,100 0 0 0 200,324 100,100 0 0 0 300,224 Z" />
+    <glyph
+       id="2"
+       glyph-name="a"
+       unicode="a"
+       d="M 300,224 A 100,100 0 0 0 200,124 100,100 0 0 0 100,224 100,100 0 0 0 200,324 100,100 0 0 0 300,224 Z" />
+    <glyph
+       id="3"
+       glyph-name="B"
+       unicode="B"
+       d="M 475,524 V 149 H 100 V 99 h 425 v 425 z" />
+    <glyph
+       id="4"
+       glyph-name="b"
+       unicode="b"
+       d="M 475,524 V 149 H 100 V 99 h 425 v 425 z" />
+    <glyph
+       id="5"
+       glyph-name="C"
+       unicode="C"
+       d="M 475,924 V 149 H 100 V 99 h 425 v 825 z" />
+    <glyph
+       id="6"
+       glyph-name="c"
+       unicode="c"
+       d="M 475,924 V 149 H 100 V 99 h 425 v 825 z" />
+    <glyph
+       id="7"
+       glyph-name="D"
+       unicode="D"
+       d="M 75,584.35547 V 124 h 50 v 339.64453 l 357.32227,-357.32226 35.35546,35.35546 z" />
+    <glyph
+       id="8"
+       glyph-name="d"
+       unicode="d"
+       d="M 75,584.35547 V 124 h 50 v 339.64453 l 357.32227,-357.32226 35.35546,35.35546 z" />
+    <glyph
+       id="9"
+       glyph-name="E"
+       unicode="E"
+       d="M 75,549 V 124 h 50 v 375 h 375 v 50 z" />
+    <glyph
+       id="10"
+       glyph-name="e"
+       unicode="e"
+       d="M 75,549 V 124 h 50 v 375 h 375 v 50 z" />
+    <glyph
+       id="11"
+       glyph-name="F"
+       unicode="F"
+       d="M 482.32227,941.67773 75,534.35547 V 124 h 50 v 389.64453 l 392.67773,392.67774 z" />
+    <glyph
+       id="12"
+       glyph-name="f"
+       unicode="f"
+       d="M 482.32227,941.67773 75,534.35547 V 124 h 50 v 389.64453 l 392.67773,392.67774 z" />
+    <glyph
+       id="13"
+       glyph-name="G"
+       unicode="G"
+       d="M 122.36133,935.17969 75,924 V 124 h 50 v 694.09766 l 352.63867,-705.27735 44.72266,22.35938 z" />
+    <glyph
+       id="14"
+       glyph-name="g"
+       unicode="g"
+       d="M 122.36133,935.17969 75,924 V 124 h 50 v 694.09766 l 352.63867,-705.27735 44.72266,22.35938 z" />
+    <glyph
+       id="15"
+       glyph-name="H"
+       unicode="H"
+       d="M 75,984.35547 V 124 h 50 v 739.64453 l 357.32227,-357.32226 35.35546,35.35546 z" />
+    <glyph
+       id="16"
+       glyph-name="h"
+       unicode="h"
+       d="M 75,984.35547 V 124 h 50 v 739.64453 l 357.32227,-357.32226 35.35546,35.35546 z" />
+    <glyph
+       id="17"
+       glyph-name="I"
+       unicode="I"
+       d="M 75,949 V 124 h 50 v 775 h 375 v 50 z" />
+    <glyph
+       id="18"
+       glyph-name="i"
+       unicode="i"
+       d="M 75,949 V 124 h 50 v 775 h 375 v 50 z" />
+    <glyph
+       id="19"
+       glyph-name="J"
+       unicode="J"
+       d="M 75,524 V 99 h 425 v 50 H 125 v 375 z" />
+    <glyph
+       id="20"
+       glyph-name="j"
+       unicode="j"
+       d="M 75,524 V 99 h 425 v 50 H 125 v 375 z" />
+    <glyph
+       id="21"
+       glyph-name="K"
+       unicode="K"
+       d="M 75,584.35547 V 124 h 50 v 339.64453 l 357.32227,-357.32226 35.35546,35.35546 z" />
+    <glyph
+       id="22"
+       glyph-name="k"
+       unicode="k"
+       d="M 75,584.35547 V 124 h 50 v 339.64453 l 357.32227,-357.32226 35.35546,35.35546 z" />
+    <glyph
+       id="23"
+       glyph-name="L"
+       unicode="L"
+       d="M 477.63867,935.17969 125,229.90234 V 524 H 75 V 124 l 47.36133,-11.17969 400,800 z" />
+    <glyph
+       id="24"
+       glyph-name="l"
+       unicode="l"
+       d="M 477.63867,935.17969 125,229.90234 V 524 H 75 V 124 l 47.36133,-11.17969 400,800 z" />
+    <glyph
+       id="25"
+       glyph-name="M"
+       unicode="M"
+       d="M 100,549 V 499 H 475 V 124 h 50 v 425 z" />
+    <glyph
+       id="26"
+       glyph-name="m"
+       unicode="m"
+       d="M 100,549 V 499 H 475 V 124 h 50 v 425 z" />
+    <glyph
+       id="27"
+       glyph-name="N"
+       unicode="N"
+       d="M 300,524 A 100,100 0 0 0 200,424 100,100 0 0 0 100,524 100,100 0 0 0 200,624 100,100 0 0 0 300,524 Z" />
+    <glyph
+       id="28"
+       glyph-name="n"
+       unicode="n"
+       d="M 300,524 A 100,100 0 0 0 200,424 100,100 0 0 0 100,524 100,100 0 0 0 200,624 100,100 0 0 0 300,524 Z" />
+    <glyph
+       id="29"
+       glyph-name="O"
+       unicode="O"
+       d="M 475,924 V 549 H 100 v -50 h 425 v 425 z" />
+    <glyph
+       id="30"
+       glyph-name="o"
+       unicode="o"
+       d="M 475,924 V 549 H 100 v -50 h 425 v 425 z" />
+    <glyph
+       id="31"
+       glyph-name="P"
+       unicode="P"
+       d="M 122.36133,935.17969 75,924 V 524 h 50 v 294.09766 l 352.63867,-705.27735 44.72266,22.35938 z" />
+    <glyph
+       id="32"
+       glyph-name="p"
+       unicode="p"
+       d="M 122.36133,935.17969 75,924 V 524 h 50 v 294.09766 l 352.63867,-705.27735 44.72266,22.35938 z" />
+    <glyph
+       id="33"
+       glyph-name="Q"
+       unicode="Q"
+       d="M 75,984.35547 V 524 h 50 v 339.64453 l 357.32227,-357.32226 35.35546,35.35546 z" />
+    <glyph
+       id="34"
+       glyph-name="q"
+       unicode="q"
+       d="M 75,984.35547 V 524 h 50 v 339.64453 l 357.32227,-357.32226 35.35546,35.35546 z" />
+    <glyph
+       id="35"
+       glyph-name="R"
+       unicode="R"
+       d="M 75,949 V 524 h 50 v 375 h 375 v 50 z" />
+    <glyph
+       id="36"
+       glyph-name="r"
+       unicode="r"
+       d="M 75,949 V 524 h 50 v 375 h 375 v 50 z" />
+    <glyph
+       id="37"
+       glyph-name="S"
+       unicode="S"
+       d="M 75,924 V 99 h 425 v 50 H 125 v 775 z" />
+    <glyph
+       id="38"
+       glyph-name="s"
+       unicode="s"
+       d="M 75,924 V 99 h 425 v 50 H 125 v 775 z" />
+    <glyph
+       id="39"
+       glyph-name="T"
+       unicode="T"
+       d="M 75,924 V 63.64453 L 517.67773,506.32227 482.32227,541.67773 125,184.35547 V 924 Z" />
+    <glyph
+       id="40"
+       glyph-name="t"
+       unicode="t"
+       d="M 75,924 V 63.64453 L 517.67773,506.32227 482.32227,541.67773 125,184.35547 V 924 Z" />
+    <glyph
+       id="41"
+       glyph-name="U"
+       unicode="U"
+       d="M 477.63867,935.17969 125,229.90234 V 924 H 75 V 124 l 47.36133,-11.17969 400,800 z" />
+    <glyph
+       id="42"
+       glyph-name="u"
+       unicode="u"
+       d="M 477.63867,935.17969 125,229.90234 V 924 H 75 V 124 l 47.36133,-11.17969 400,800 z" />
+    <glyph
+       id="43"
+       glyph-name="V"
+       unicode="V"
+       d="M 75,924 V 513.64453 L 482.32227,106.32227 517.67773,141.67773 125,534.35547 V 924 Z" />
+    <glyph
+       id="44"
+       glyph-name="v"
+       unicode="v"
+       d="M 75,924 V 513.64453 L 482.32227,106.32227 517.67773,141.67773 125,534.35547 V 924 Z" />
+    <glyph
+       id="45"
+       glyph-name="W"
+       unicode="W"
+       d="M 75,924 V 499 h 425 v 50 H 125 v 375 z" />
+    <glyph
+       id="46"
+       glyph-name="w"
+       unicode="w"
+       d="M 75,924 V 499 h 425 v 50 H 125 v 375 z" />
+    <glyph
+       id="47"
+       glyph-name="X"
+       unicode="X"
+       d="M 482.32227,941.67773 125,584.35547 V 924 H 75 V 463.64453 l 442.67773,442.67774 z" />
+    <glyph
+       id="48"
+       glyph-name="x"
+       unicode="x"
+       d="M 482.32227,941.67773 125,584.35547 V 924 H 75 V 463.64453 l 442.67773,442.67774 z" />
+    <glyph
+       id="49"
+       glyph-name="Y"
+       unicode="Y"
+       d="M 100,949 V 899 H 475 V 124 h 50 v 825 z" />
+    <glyph
+       id="50"
+       glyph-name="y"
+       unicode="y"
+       d="M 100,949 V 899 H 475 V 124 h 50 v 825 z" />
+    <glyph
+       id="51"
+       glyph-name="Z"
+       unicode="Z"
+       d="M 100,949 V 899 H 475 V 524 h 50 v 425 z" />
+    <glyph
+       id="52"
+       glyph-name="z"
+       unicode="z"
+       d="M 100,949 V 899 H 475 V 524 h 50 v 425 z" />
+    
+    
+    <hkern
+       u1="a"
+       u2="M"
+       k="400"
+       id="53" />
+    <hkern
+       u1="a"
+       u2="m"
+       k="400"
+       id="54" />
+    <hkern
+       u1="A"
+       u2="M"
+       k="400"
+       id="55" />
+    <hkern
+       u1="A"
+       u2="m"
+       k="400"
+       id="56" /><hkern
+       u1="a"
+       u2="N"
+       k="400"
+       id="57" />
+    <hkern
+       u1="a"
+       u2="n"
+       k="400"
+       id="58" />
+    <hkern
+       u1="A"
+       u2="N"
+       k="400"
+       id="59" />
+    <hkern
+       u1="A"
+       u2="n"
+       k="400"
+       id="60" /><hkern
+       u1="a"
+       u2="O"
+       k="400"
+       id="61" />
+    <hkern
+       u1="a"
+       u2="o"
+       k="400"
+       id="62" />
+    <hkern
+       u1="A"
+       u2="O"
+       k="400"
+       id="63" />
+    <hkern
+       u1="A"
+       u2="o"
+       k="400"
+       id="64" /><hkern
+       u1="a"
+       u2="P"
+       k="400"
+       id="65" />
+    <hkern
+       u1="a"
+       u2="p"
+       k="400"
+       id="66" />
+    <hkern
+       u1="A"
+       u2="P"
+       k="400"
+       id="67" />
+    <hkern
+       u1="A"
+       u2="p"
+       k="400"
+       id="68" /><hkern
+       u1="a"
+       u2="Q"
+       k="400"
+       id="69" />
+    <hkern
+       u1="a"
+       u2="q"
+       k="400"
+       id="70" />
+    <hkern
+       u1="A"
+       u2="Q"
+       k="400"
+       id="71" />
+    <hkern
+       u1="A"
+       u2="q"
+       k="400"
+       id="72" /><hkern
+       u1="a"
+       u2="R"
+       k="400"
+       id="73" />
+    <hkern
+       u1="a"
+       u2="r"
+       k="400"
+       id="74" />
+    <hkern
+       u1="A"
+       u2="R"
+       k="400"
+       id="75" />
+    <hkern
+       u1="A"
+       u2="r"
+       k="400"
+       id="76" /><hkern
+       u1="a"
+       u2="V"
+       k="400"
+       id="77" />
+    <hkern
+       u1="a"
+       u2="v"
+       k="400"
+       id="78" />
+    <hkern
+       u1="A"
+       u2="V"
+       k="400"
+       id="79" />
+    <hkern
+       u1="A"
+       u2="v"
+       k="400"
+       id="80" /><hkern
+       u1="a"
+       u2="W"
+       k="400"
+       id="81" />
+    <hkern
+       u1="a"
+       u2="w"
+       k="400"
+       id="82" />
+    <hkern
+       u1="A"
+       u2="W"
+       k="400"
+       id="83" />
+    <hkern
+       u1="A"
+       u2="w"
+       k="400"
+       id="84" /><hkern
+       u1="a"
+       u2="X"
+       k="400"
+       id="85" />
+    <hkern
+       u1="a"
+       u2="x"
+       k="400"
+       id="86" />
+    <hkern
+       u1="A"
+       u2="X"
+       k="400"
+       id="87" />
+    <hkern
+       u1="A"
+       u2="x"
+       k="400"
+       id="88" /><hkern
+       u1="a"
+       u2="Y"
+       k="400"
+       id="89" />
+    <hkern
+       u1="a"
+       u2="y"
+       k="400"
+       id="90" />
+    <hkern
+       u1="A"
+       u2="Y"
+       k="400"
+       id="91" />
+    <hkern
+       u1="A"
+       u2="y"
+       k="400"
+       id="92" /><hkern
+       u1="a"
+       u2="Z"
+       k="400"
+       id="93" />
+    <hkern
+       u1="a"
+       u2="z"
+       k="400"
+       id="94" />
+    <hkern
+       u1="A"
+       u2="Z"
+       k="400"
+       id="95" />
+    <hkern
+       u1="A"
+       u2="z"
+       k="400"
+       id="96" />
+    
+    <hkern
+       u1="i"
+       u2="C"
+       k="400"
+       id="97" />
+    <hkern
+       u1="i"
+       u2="c"
+       k="400"
+       id="98" />
+    <hkern
+       u1="I"
+       u2="C"
+       k="400"
+       id="99" />
+    <hkern
+       u1="I"
+       u2="c"
+       k="400"
+       id="100" /><hkern
+       u1="i"
+       u2="N"
+       k="400"
+       id="101" />
+    <hkern
+       u1="i"
+       u2="n"
+       k="400"
+       id="102" />
+    <hkern
+       u1="I"
+       u2="N"
+       k="400"
+       id="103" />
+    <hkern
+       u1="I"
+       u2="n"
+       k="400"
+       id="104" />
+    
+    <hkern
+       u1="w"
+       u2="A"
+       k="400"
+       id="105" />
+    <hkern
+       u1="w"
+       u2="a"
+       k="400"
+       id="106" />
+    <hkern
+       u1="W"
+       u2="A"
+       k="400"
+       id="107" />
+    <hkern
+       u1="W"
+       u2="a"
+       k="400"
+       id="108" />
+    
+    <hkern
+       u1="r"
+       u2="E"
+       k="400"
+       id="109" />
+    <hkern
+       u1="r"
+       u2="e"
+       k="400"
+       id="110" />
+    <hkern
+       u1="R"
+       u2="E"
+       k="400"
+       id="111" />
+    <hkern
+       u1="R"
+       u2="e"
+       k="400"
+       id="112" /><hkern
+       u1="r"
+       u2="A"
+       k="400"
+       id="113" />
+    <hkern
+       u1="r"
+       u2="a"
+       k="400"
+       id="114" />
+    <hkern
+       u1="R"
+       u2="A"
+       k="400"
+       id="115" />
+    <hkern
+       u1="R"
+       u2="a"
+       k="400"
+       id="116" />
+    
+    <hkern
+       u1="n"
+       u2="A"
+       k="400"
+       id="117" />
+    <hkern
+       u1="n"
+       u2="a"
+       k="400"
+       id="118" />
+    <hkern
+       u1="N"
+       u2="A"
+       k="400"
+       id="119" />
+    <hkern
+       u1="N"
+       u2="a"
+       k="400"
+       id="120" />
+    
+
+  </font>
+</svg>

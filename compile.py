@@ -7,9 +7,9 @@ conf = yaml.load(conf)
 
 from jinja2 import Environment, FileSystemLoader
 env = Environment(loader=FileSystemLoader('./'))
-template = env.get_template('cscriptFont.svg.j2')
+template = env.get_template('fontGenerator.svg.j2')
 output_from_parsed_template = template.render(id=lambda:counter.__next__(),**conf)
 
 # to save the results
-with open("cscriptFont.svg", "wb") as fh:
+with open("wizardFont.svg", "wb") as fh:
     fh.write(output_from_parsed_template.encode('utf-8'))
