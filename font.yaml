@@ -1,0 +1,4 @@
+hkern:
+  a:
+    chars: mnopqrvwxyz
+    kern: 400
